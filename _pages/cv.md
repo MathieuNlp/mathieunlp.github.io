@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 You can check my CV here 
-<a href="MathieuNlp.github.io/files/Resume_ENG.pdf" target="_blank">PDF.</a>
+<a href="https://mathieunlp.github.io/files/Resume_ENG.pdf" target="_blank">PDF.</a>
