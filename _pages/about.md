@@ -22,6 +22,7 @@ to predict the virality of them with a Hawkes process fine-tuned by a RandomFore
 [![](https://img.shields.io/badge/-Git-white)](#)
 
 [[Code]](https://github.com/MathieuNlp/Tweetoscope)
+
 ------
 
 Convex contouring obstacles on water with Kernel Density Estimation
@@ -32,6 +33,7 @@ This project calculate the convex contour of probability given a cloud of points
 [![](https://img.shields.io/badge/-sklearn-white)](#)
 
 [[Code]](https://github.com/MathieuNlp/DRP_KDE)
+
 ------
 
 Evaluation of marine ecosystem through plankton species
@@ -43,4 +45,5 @@ Plankton are a good estimator of marine ecosystem. In the context of the <a href
 [![](https://img.shields.io/badge/-Pytorch-white)](#)
 
 [[Code]](https://github.com/MathieuNlp/Plankton-Classif)
+
 ------
