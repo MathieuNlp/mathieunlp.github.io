@@ -1,5 +1,9 @@
 ---
 permalink: /
+title: ""
+excerpt: ""
+author_profile: false
+
 
 ---
 Projects
