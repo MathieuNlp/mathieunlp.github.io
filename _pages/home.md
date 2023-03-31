@@ -39,7 +39,7 @@ This project calculate the convex contour of probability given a cloud of points
 
 Evaluation of marine ecosystem through plankton species
 ------
-Plankton are a good estimator of marine ecosystem. In the context of the <a href="https://anr.fr/fr/detail/call/challenge-ia-biodiv-recherche-en-intelligence-artificielle-dans-le-champ-de-la-biodiversite/"> Biodiversity AI Challenge </a>, I was asked to create a model that classify plankton species based on a highly unbalanced dataset.
+Plankton are a good estimator of marine ecosystem. In the context of the <a href="https://anr.fr/fr/detail/call/challenge-ia-biodiv-recherche-en-intelligence-artificielle-dans-le-champ-de-la-biodiversite/"> Biodiversity AI Challenge</a>, I was asked to create a model that classify plankton species based on a highly unbalanced dataset.
 
 [![](https://img.shields.io/badge/-Python-white)](#)
 [![](https://img.shields.io/badge/-sklearn-white)](#)
