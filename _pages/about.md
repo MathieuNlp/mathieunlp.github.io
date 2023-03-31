@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Projects"
+excerpt: "Projects"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Mathieu Nalpon's Portfolio
-
-Lorem ipsum.
+title: "Publications"
+excerpt: "Publications"
