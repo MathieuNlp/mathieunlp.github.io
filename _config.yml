@@ -11,9 +11,9 @@ title                    : "Mathieu Nalpon"
 title_separator          : "-"
 name                     : &name "Mathieu Nalpon"
 description              : &description "Graduated from CentraleSupélec 2022"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mathieunlp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MathieuNlp.github.io"
+repository               : "mathieunlp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
