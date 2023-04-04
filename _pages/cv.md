@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 You can check my CV here 
-<a href="https://mathieunlp.github.io/files/Resume_ENG.pdf" target="_blank">PDF.</a>
+<a href="https://mathieunlp.github.io/files/Resume_ENG.pdf" target="English Version">PDF.</a>
+<a href="https://mathieunlp.github.io/files/Resume_FR.pdf" target="French Version">PDF.</a>
