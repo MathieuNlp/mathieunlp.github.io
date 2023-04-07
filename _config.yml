@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Mathieu Nalpon"
   avatar           : "https://mathieunlp.github.io/files/profile_pic.jpg"
-  bio              : "I am a Data Scientist with 2 years of experience as a Software Engineer. I graduated from CentraleSupélec majoring Mathematics and Data Science. 
-                      I am looking for a position as a Machine Learning Engineer or Data Scientist."
+  bio              : "I am a Data Scientist with 2 years of experience as a Software Engineer. I graduated from CentraleSupélec majoring Mathematics and Data Science. I am looking for a position as a Machine Learning Engineer or Data Scientist."
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
