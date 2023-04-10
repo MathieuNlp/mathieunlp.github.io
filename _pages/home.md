@@ -9,7 +9,7 @@ author_profile: true
 Projects
 ======
 
-Tweet virality predicor
+Tweet virality predictor
 ------
 The popularity of a tweet can vary depending on the author, the audiance and other parameters. In this project, I built a full pipeline from getting tweets
 to predict the virality of them with a Hawkes process fine-tuned by a RandomForest. Finally I deployed the system with Docker and Kubernetes.
