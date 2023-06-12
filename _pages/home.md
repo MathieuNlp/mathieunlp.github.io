@@ -14,7 +14,7 @@ Cat face generator
 I used pytorch to generate faces of cats.
 
 [![](https://img.shields.io/badge/-Python-white)](#)
-[![](https://img.shields.io/badge/-Pytorch-white](#)
+[![](https://img.shields.io/badge/-Pytorch-white)](#)
 
 [[Code]](https://github.com/MathieuNlp/cat_gen)
 
