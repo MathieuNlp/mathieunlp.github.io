@@ -11,7 +11,7 @@ Projects
 
 Cat face generator
 ------
-I used pytorch to generate faces of cats.
+GAN models are generative models that train a generator through a discriminator in a zero sum game. I tried to generate cats face with a DCGAN model.
 
 [![](https://img.shields.io/badge/-Python-white)](#)
 [![](https://img.shields.io/badge/-Pytorch-white)](#)
