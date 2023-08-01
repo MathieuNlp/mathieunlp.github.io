@@ -30,6 +30,10 @@ Cat face generator
 ------
 GAN models are generative models that train a generator through a discriminator in a zero sum game. I tried to generate cats face with a DCGAN model.
 
+
+![image](https://user-images.githubusercontent.com/78492189/244523427-2867d1b9-a1ee-47ed-9299-3f0f57b74c3b.png)
+
+
 [![](https://img.shields.io/badge/-Python-white)](#)
 [![](https://img.shields.io/badge/-Pytorch-white)](#)
 
