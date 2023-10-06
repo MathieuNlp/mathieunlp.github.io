@@ -9,6 +9,21 @@ author_profile: true
 Projects
 ======
 
+Segment Your Ring (SYR)
+------
+Using Segment Anything Model (SAM) released by Meta, the objective is to segment rings used in product packshots. The challenging part is that SAM doesn't perform well with rings on a white background. Therefore, I adpated SAM with LoRA to solve this task.
+
+
+![image](https://raw.githubusercontent.com/MathieuNlp/Sam_LoRA/main/docs/images/best_model_on_test.png)
+
+[![](https://img.shields.io/badge/Segment%20Anything-maker?color=white)](#)
+[![](https://img.shields.io/badge/-Pytorch-white)](#)
+[![](https://img.shields.io/badge/-LoRA-white)](#)
+[![](https://img.shields.io/badge/-Gradio-white)](#)
+
+[[Code]](https://github.com/MathieuNlp/Sam_LoRA/)
+
+------
 
 Inpainting with Stable Diffusion and Segment Anything
 ------
