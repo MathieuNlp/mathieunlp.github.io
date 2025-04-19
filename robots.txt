@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mathieunlp.github.io/al-folio/sitemap.xml
+Sitemap: https://mathieunlp.github.io/sitemap.xml
