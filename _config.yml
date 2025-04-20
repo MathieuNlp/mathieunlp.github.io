@@ -57,7 +57,7 @@ footer_fixed: true
 # bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -231,6 +231,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/repositories.md
+  - _includes/repository/
 keep_files:
   - CNAME
   - .nojekyll
