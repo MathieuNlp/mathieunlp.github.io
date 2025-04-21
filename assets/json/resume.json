@@ -29,8 +29,7 @@
       "startDate": "2023-10",
       "endDate": "",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "name": "Ariane Group Defense & Space",
@@ -39,41 +38,24 @@
       "startDate": "2020-10",
       "endDate": "2022-10",
       "summary": "",
-      "highlights": [
-      ]
+      "highlights": []
     }
   ],
   "skills": [
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": [
-        "Python",
-        "C++",
-        "Bash"
-      ]
+      "keywords": ["Python", "C++", "Bash"]
     },
     {
       "name": "Libraries",
       "level": "",
-      "keywords": [
-        "PyTorch",
-        "Optuna"
-      ]
+      "keywords": ["PyTorch", "Optuna"]
     },
     {
       "name": "Frameworks & Tools",
       "level": "",
-      "keywords": [
-        "Git",
-        "Docker",
-        "Kubernetes",
-        "Ray",
-        "Snowflake",
-        "MLFlow",
-        "ElasticSearch",
-        "FAISS"
-      ]
+      "keywords": ["Git", "Docker", "Kubernetes", "Ray", "Snowflake", "MLFlow", "ElasticSearch", "FAISS"]
     }
   ],
   "languages": [
