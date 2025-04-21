@@ -6,7 +6,7 @@ subtitle: <b> AI and stuff </b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Paris, France</p>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: test
+description: test
+img:
 importance: 1
-category: work
+category:
 related_publications: true
 ---
 
