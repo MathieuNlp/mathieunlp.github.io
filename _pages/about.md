@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi ! I am a machine learning engineer and am interested in world models and simulations with generative ai.
+Hi! I am a graduate of CentraleSupélec in Data Science. I currently work at Weborama on recommendation systems. I am interested in video generation systems, particularly their potential for understanding physics, as well as their controllability and efficiency. I am very excited about the potential of these models for narrative creation and simulation.
 
-Currently working at Weborama exploring recommendation systems.
+In my free time, I enjoy sports (especially badminton) and travelling.
