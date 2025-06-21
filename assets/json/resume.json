@@ -12,34 +12,6 @@
     },
     "profiles": []
   },
-  "work": [
-    {
-      "name": "Weborama",
-      "location": "Paris, France",
-      "position": "Machine Learning Engineer",
-      "startDate": "2023-10",
-      "endDate": "",
-      "summary": "Machine‑learning engineer working on contextual targeting (WeboMind) and AutoML data pipelines.",
-      "highlights": [
-        "Built WeboMind, a contextual URL‑recommendation tool: crawled web pages, generated embeddings, optimised FAISS search and stored vectors in Milvus.",
-        "Created clustering module for campaign insights and deployed the service to production.",
-        "Designed data‑engineering pipeline to predict user conversion rate: optimised SQL extraction, orchestrated ETL & model inference with Airflow, monitored via Prometheus/Grafana."
-      ]
-    },
-    {
-      "name": "ArianeGroup Defense & Space",
-      "location": "Paris, France",
-      "position": "Data Scientist",
-      "startDate": "2020-10",
-      "endDate": "2022-10",
-      "summary": "Research & development of algorithms for autonomous flight‑termination systems.",
-      "highlights": [
-        "Surveyed state‑of‑the‑art solutions for in‑flight launcher neutralisation.",
-        "Applied statistical geometry to improve computation of neutralisation timing.",
-        "Developed 3‑D trajectory algorithm estimating time‑to‑neutralisation under perturbed flight paths."
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "CentraleSupélec – Paris‑Saclay University",
@@ -56,6 +28,40 @@
       "studyType": "Bachelor of Engineering",
       "startDate": "2016-09",
       "endDate": "2019-07"
+    }
+  ],
+  "work": [
+    {
+      "name": "Weborama",
+      "location": "Paris, France",
+      "position": "Machine Learning Engineer",
+      "startDate": "2023-10",
+      "endDate": "",
+      "summary": "Machine‑learning engineer working on contextual targeting (WeboMind) and AutoML data pipelines.",
+      "highlights": [
+        "Built a contextual URL‑recommendation tool: crawled web pages, generated embeddings, optimised FAISS search and stored vectors in Milvus.",
+        "Created clustering module for campaign insights and deployed the service to production.",
+        "Designed data‑engineering pipeline to predict user conversion rate: optimised SQL extraction, orchestrated ETL & model inference with Airflow, monitored via Prometheus/Grafana."
+      ]
+    },
+    {
+      "name": "ArianeGroup Defense & Space",
+      "location": "Paris, France",
+      "position": "Data Scientist",
+      "startDate": "2020-10",
+      "endDate": "2022-10",
+      "summary": "Research & development of algorithms for autonomous flight‑neutralisation systems.",
+      "highlights": [
+        "Surveyed state‑of‑the‑art solutions for in‑flight launcher neutralisation.",
+        "Applied statistical geometry to improve computation of neutralisation timing.",
+        "Developed 3‑D trajectory algorithm estimating time‑to‑neutralisation under perturbed flight paths."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fine‑tuning SAM (Meta) for ring segmentation",
+      "summary": "Used LoRA adapter with custom dataset to accurately segment single and paired rings."
     }
   ],
   "skills": [
@@ -89,12 +95,6 @@
         "Grafana",
         "MLFlow"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Fine‑tuning SAM (Meta) for ring segmentation",
-      "summary": "Used LoRA adapter with custom dataset to accurately segment single and paired rings."
     }
   ],
   "languages": [
