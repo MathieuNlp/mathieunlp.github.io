@@ -67,34 +67,15 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Python",
-        "C++",
-        "Bash"
-      ]
+      "keywords": ["Python", "C++", "Bash"]
     },
     {
       "name": "Libraries",
-      "keywords": [
-        "PyTorch",
-        "Optuna",
-        "Ray",
-        "FAISS"
-      ]
+      "keywords": ["PyTorch", "Optuna", "Ray", "FAISS"]
     },
     {
       "name": "Frameworks & Tools",
-      "keywords": [
-        "Git",
-        "Docker",
-        "Kubernetes",
-        "Snowflake",
-        "ElasticSearch",
-        "Sentry",
-        "Prometheus",
-        "Grafana",
-        "MLFlow"
-      ]
+      "keywords": ["Git", "Docker", "Kubernetes", "Snowflake", "ElasticSearch", "Sentry", "Prometheus", "Grafana", "MLFlow"]
     }
   ],
   "languages": [
