@@ -50,11 +50,11 @@
       "position": "Data Scientist",
       "startDate": "2020-10",
       "endDate": "2022-10",
-      "summary": "Research & development of algorithms for autonomous flight‑neutralisation systems.",
+      "summary": "Research & development of algorithms for autonomous flight‑neutralization systems of a launcher.",
       "highlights": [
-        "Surveyed state‑of‑the‑art solutions for in‑flight launcher neutralisation.",
-        "Applied statistical geometry to improve computation of neutralisation timing.",
-        "Developed 3‑D trajectory algorithm estimating time‑to‑neutralisation under perturbed flight paths."
+        "Surveyed state‑of‑the‑art solutions for in‑flight launcher neutralization.",
+        "Applied statistical geometry to improve computation of neutralization timing.",
+        "Developed 3‑D trajectory algorithm estimating time‑to‑neutralization under perturbed flight paths."
       ]
     }
   ],
