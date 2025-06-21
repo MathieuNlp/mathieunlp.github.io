@@ -85,9 +85,7 @@
       {
         "title": "Fine‑tuning SAM (Meta) for ring segmentation",
         "year": "2024",
-        "description": [
-          "Used LoRA adapter with custom dataset to segment single and paired rings."
-        ]
+        "description": ["Used LoRA adapter with custom dataset to segment single and paired rings."]
       }
     ]
   },
@@ -97,34 +95,15 @@
     "contents": [
       {
         "title": "Languages",
-        "items": [
-          "Python",
-          "C++",
-          "Bash"
-        ]
+        "items": ["Python", "C++", "Bash"]
       },
       {
         "title": "Libraries",
-        "items": [
-          "PyTorch",
-          "Optuna",
-          "Ray",
-          "FAISS"
-        ]
+        "items": ["PyTorch", "Optuna", "Ray", "FAISS"]
       },
       {
         "title": "Frameworks & Tools",
-        "items": [
-          "Git",
-          "Docker",
-          "Kubernetes",
-          "Snowflake",
-          "ElasticSearch",
-          "Sentry",
-          "Prometheus",
-          "Grafana",
-          "MLFlow"
-        ]
+        "items": ["Git", "Docker", "Kubernetes", "Snowflake", "ElasticSearch", "Sentry", "Prometheus", "Grafana", "MLFlow"]
       }
     ]
   }
