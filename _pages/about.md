@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b> AI and stuff </b>
+subtitle: <b></b>
 
 profile:
   align: right
