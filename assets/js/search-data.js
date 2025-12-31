@@ -58,6 +58,11 @@ ninja.data = [{
           description: "test",
           section: "Notes",handler: () => {
               window.location.href = "/notes/1_project/";
+            },},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
