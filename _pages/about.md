@@ -6,7 +6,7 @@ subtitle: <b></b>
 
 profile:
   align: right
-  image: pp.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Paris, France</p>
@@ -28,6 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a graduate of CentraleSupélec in Data Science. I currently work at Weborama on recommendation systems. I am interested in video generation systems, particularly their potential for understanding physics, as well as their controllability and efficiency. I am very excited about the potential of these models for narrative creation and simulation.
-
-In my free time, I enjoy sports (especially badminton) and travelling.
+Hi! I am a graduate of CentraleSupélec in Data Science. I currently work at Weborama on recommendation systems. I currently enjoy building and sharing knowledge through blogs. In my free time, I enjoy sports, chess and traveling.
