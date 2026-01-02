@@ -21,7 +21,7 @@ horizontal: false
   {%- for notes in sorted_notes -%}
     <a href="{{ notes.url }}" class="card mb-3 text-decoration-none text-reset">
       <div class="card-body">
-        <h5 class="card-title">{{ notes.title }}</h5>
+        <h4 class="card-title">{{ notes.title }}</h4>
         <p class="card-text">{{ notes.description }}</p>
       </div>
     </a>
