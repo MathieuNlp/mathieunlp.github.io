@@ -3,7 +3,7 @@ layout: page
 title: Je-sais-voter
 description: Analysis of french political parties
 img: assets/img/projects/sam_rings/jesaisvoter.jpeg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
