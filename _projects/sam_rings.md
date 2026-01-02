@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: SAM LoRA
 description: Segment Anything fine-tuned for ring segmentation
 img: assets/img/projects/sam_rings/SAM.png
 importance: 1
