@@ -51,11 +51,6 @@ ninja.data = [{
           description: "test",
           section: "Notes",handler: () => {
               window.location.href = "/notes/1_project/";
-            },},{id: "projects-je-sais-voter",
-          title: 'Je-sais-voter',
-          description: "Analysis of french political parties",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/jesaisvoter/";
             },},{id: "projects-sam-lora",
           title: 'SAM LoRA',
           description: "Segment Anything fine-tuned for ring segmentation",
